@@ -1,35 +1,41 @@
 <!-- ===================== -->
-<!-- Portfolio / Banner -->
+<!-- Profile Header -->
 <!-- ===================== -->
 
+<table>
+<tr>
+<td width="30%" align="center">
+
 <a href="https://github.com/G-S-Kaushik">
-  <img src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII" width="100%" alt="Banner"/>
+  <img
+    src="./assets/banner/developer-8764521.jpg"
+    width="100%"
+    alt="AI ML Engineer Banner"
+  />
 </a>
 
----
+</td>
 
-<div align="center">
+<td width="70%" valign="top">
+
+## 👋 Hi, I'm **Kaushik G S**
+
+**AI / ML Engineer • Data Scientist • Python Developer**
+
+I build **scalable machine learning systems**, **LLM-powered applications**, and  
+**production-ready AI solutions**, with a strong focus on **agents, NLP, and MLOps**.
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=g-s-kaushik&label=PROFILE+VIEWS&style=for-the-badge"/>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gskaushik/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.skaushik41@gmail.com)
 [![Projects](https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G-S-Kaushik?tab=repositories)
 
-</div>
 
----
-
-## 👋 Hi, I'm **Kaushik G S**
-
-<div align="center">
-
-**Data Scientist • Machine Learning Engineer • LLM Enthusiast**
-
-I build **scalable ML systems**, **efficient NLP pipelines**, and  
-**production-ready AI solutions**, with a strong focus on **LLMs, agents, and MLOps**.
-
-</div>
 
 ---
 
@@ -39,10 +45,28 @@ I build **scalable ML systems**, **efficient NLP pipelines**, and
 - 🤖 **NLP, Text Summarization & Classification**
 - 🧠 **Large Language Models (LLMs)** & prompt optimization
 - 🧩 **Agent-based AI systems**
-- ⚙️ Optimization for **latency, cost & scalability**
+- ⚙️ Model optimization for **latency, cost & scalability**
+- 🚀 End-to-end **MLOps & deployment pipelines**
+  
+
+</td>
+</tr>
+</table>
 
 ---
 
+## 📈 Statistics
+<div align="center">
+
+![Statscard](https://git-stats-plum.vercel.app/api?username=g-s-kaushik&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true)
+
+![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=g-s-kaushik&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=bebec3&disable_animations=true)
+
+![WakaTime stats](https://git-stats-plum.vercel.app/api/wakatime?username=g_s_kaushik&layout=compact&theme=transparent&disable_animations=true)
+
+</div>
+
+---
 ## 💻 Tech Stack
 
 ### 🧑‍💻 Programming Languages
@@ -54,7 +78,6 @@ I build **scalable ML systems**, **efficient NLP pipelines**, and
 
 </div>
 
----
 
 ### 🤖 Machine Learning & Deep Learning
 <div align="center">
@@ -66,7 +89,6 @@ I build **scalable ML systems**, **efficient NLP pipelines**, and
 
 </div>
 
----
 
 ### 🧠 NLP, LLMs & Agent Frameworks
 <div align="center">
@@ -81,7 +103,6 @@ I build **scalable ML systems**, **efficient NLP pipelines**, and
 
 </div>
 
----
 
 ### 📊 Data Analysis & Visualization
 <div align="center">
@@ -94,7 +115,6 @@ I build **scalable ML systems**, **efficient NLP pipelines**, and
 
 </div>
 
----
 
 ### 🗄️ Databases, Graph & Vector Stores
 <div align="center">
@@ -109,7 +129,6 @@ I build **scalable ML systems**, **efficient NLP pipelines**, and
 
 </div>
 
----
 
 ### ⚙️ MLOps, Monitoring & Experiment Tracking
 <div align="center">
@@ -120,7 +139,6 @@ I build **scalable ML systems**, **efficient NLP pipelines**, and
 
 </div>
 
----
 
 ### 🚀 Deployment, DevOps & Cloud
 <div align="center">
@@ -143,6 +161,6 @@ I build **scalable ML systems**, **efficient NLP pipelines**, and
 ---
 
 ## 📫 Let’s Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gskaushik/)
-- 📧 **g.skaushik41@gmail.com**
-- 💻 [GitHub](https://github.com/G-S-Kaushik)
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/gskaushik/
+- 📧 **Email**: g.skaushik41@gmail.com
+- 💻 **GitHub**: https://github.com/G-S-Kaushik
