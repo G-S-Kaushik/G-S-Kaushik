@@ -26,6 +26,8 @@
   
 ![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=g-s-kaushik&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=bebec3&disable_animations=true)
 
+![WakaTime stats](https://git-stats-plum.vercel.app/api/wakatime?username=g-s-kaushik&layout=compact&theme=transparent&disable_animations=true)
+
 ## 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g-s-kaushik/g-s-kaushik/output/github-contribution-grid-snake-dark.svg">
